@@ -1,0 +1,11 @@
+smiles,activity
+CCOC(=O)C1=CC=CC=C1,7.2
+CCN(CC)CCOC1=CC=CC=C1,6.8
+CCOC(=O)NCCC1=CC=CC=C1,7.5
+CCOC(=O)C2=CC=CC=C2O,6.9
+CCN(CC)CCOC2=CC=CC=C2O,7.0
+CCOC(=O)Nc1ccc(Cl)cc1,7.3
+CCN(CC)CCOc1ccc(Cl)cc1,6.7
+COC(=O)c1ccc(F)cc1,7.1
+CCC(=O)Nc1ccc(Br)cc1,6.8
+CCOC(=O)Nc1ccc(I)cc1,7.4
